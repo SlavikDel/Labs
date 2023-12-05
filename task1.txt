@@ -1,0 +1,15 @@
+mkdir Delikatnyi
+cd Delikatnyi
+mkdir Yaroslav Delikatnyi
+mkdir KI405
+mkdir VARJ 
+cd Yaroslav Delikatnyi
+touch email.txt
+cd ..
+cd KI405 
+touch data.txt
+echo "05.12.23 KI-405" >> data.txt
+cd .. 
+cd Yaroslav Delikatnyi
+echo "delikatnijaroslav@gmail.com" >> email.txt
+
